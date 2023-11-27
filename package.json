@@ -1,0 +1,20 @@
+{
+  "name": "neo",
+  "version": "1.0.0",
+  "description": "The Neo Social Club",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HG",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Hector711/neo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hector711/neo/issues"
+  },
+  "homepage": "https://github.com/Hector711/neo#readme"
+}
